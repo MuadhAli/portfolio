@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>muadh portfolio</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="shadow-title parallax-top-shadow">work</div>
+  <div class="section-parallax parallax-00" style="background-image: url('http://www.ivang-design.com/svg-load/parallax/parallax-0.png');"></div>
+  <div class="section-parallax parallax-01" style="background-image: url('http://www.ivang-design.com/svg-load/parallax/parallax-01.png');"></div>
+
+<div class="section full-height">
+  <div class="section-title-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center parallax-fade-top">
+          <p>...</p>	
+          <h1>Muadh <br></h1><span style="font-size: 30px;" class="element"></span>
+        </div>
+      </div>	
+
+    </div>
+  </div>
+</div>
+
+<div  class="section full-height z-bigger">
+  <ul style="margin-top: 350px;" class="case-study-wrapper">
+    <li class="case-study-name">                            	
+      <a href="#" class="hover-target">PHOTO</a>
+    </li>
+    <li class="case-study-name">                                         	
+      <a href="#" class="hover-target">CONTACT</a>
+    </li>
+    <li class="case-study-name">                                        	
+      <a href="#" class="hover-target">RESUME</a>
+    </li>
+    <li class="case-study-name">                                         	
+      <a href="#" class="hover-target">DETAILS</a>
+    </li>
+  </ul>
+  <ul class="case-study-images">
+    <li>
+      <div class="img-hero-background">
+        <img src="MUADH.png" >
+      </div>  
+      <!-- <div class="hero-number-back">01</div>  -->
+      <!-- <div class="hero-number">01</div>  -->
+      <!-- <div class="hero-number-fixed">04</div>  -->
+      <div class="case-study-title">THIS IS MUADH &#x2728; <span></span></div> 
+    </li>
+    <li>
+      <div class="img-hero-background">
+        <img src="https://s4.aconvert.com/convert/p3r68-cdx67/agl9k-rrit6.png" alt="">
+      </div> 
+      <!-- <div class="hero-number-back">02</div>  -->
+      <!-- <div class="hero-number">02</div>   -->
+      <div class="case-study-title">GET CONNECTED TO HIM</div> 
+    </li>
+    <li>
+      <div class="img-hero-background">
+        <img src="http://www.ivang-design.com/svg-load/parallax/nature.jpg" alt="">
+      </div>
+      <!-- <div class="hero-number-back">03</div>   -->
+      <!-- <div class="hero-number">03</div>  -->
+      <div class="case-study-title">CHECK HIS WORKS AND PROJECT</div> 
+    </li>
+    <li>
+      <div class="img-hero-background">
+        <img src="http://www.ivang-design.com/svg-load/parallax/fire.jpg" alt="">
+      </div> 
+      <!-- <div class="hero-number-back">04</div>  -->
+      <!-- <div class="hero-number">04</div>  -->
+      <div class="case-study-title">GET HIS DETAILS</div> 
+    </li>
+  </ul>	
+</div>
+
+<div class="section padding-top-bottom over-hide background-dark z-bigger-2">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-7 text-center">
+        <a href="#" class="hover-target">
+          <div class="project-link-wrap">
+            <p>let's talk</p>
+          </div>
+        </a>
+      </div>
+    </div>	
+  </div>			
+</div>
+
+<!-- Scroll back to top
+================================================== -->
+
+<div class="scroll-to-top hover-target"></div>
+
+<!-- Page cursor
+================================================== -->
+
+<!-- <div class='cursor' id="cursor"></div> -->
+<div class='cursor2' id="cursor2"></div>
+<div class='cursor3' id="cursor3"></div>
+<script>
+  var typed = new Typed('.element', {
+  strings: ["I am a flutter developer...", "I am a web developer..."," I am designer..."],
+  
+  typeSpeed: 40,
+  loop:true
+});
+</script>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
